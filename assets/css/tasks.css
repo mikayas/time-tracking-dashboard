@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+.container__task--work {
+   background-color: var(--light-red-work);
+   background-image: url("../images/icon-work.svg");
+}
+
+.container__task--play {
+   background-color: var(--soft-blue-play);
+   background-image: url("../images/icon-play.svg");
+}
+
+.container__task--study {
+   background-color: var(--light-red-study);
+   background-image: url("../images/icon-study.svg");
+}
+
+.container__task--exercise {
+   background-color: var(--lime-green-exercise);
+   background-image: url("../images/icon-exercise.svg");
+}
+
+.container__task--social {
+   background-color: var(--violet-social);
+   background-image: url("../images/icon-social.svg");
+}
+
+.container__task--selfcare {
+   background-color: var(--soft-orange-selfcare);
+   background-image: url("../images/icon-self-care.svg");
+}
